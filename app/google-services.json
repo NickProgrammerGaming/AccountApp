@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633641343400",
+    "project_id": "accountapp-1bf1a",
+    "storage_bucket": "accountapp-1bf1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633641343400:android:a9c015bca997bfa7dd259d",
+        "android_client_info": {
+          "package_name": "janes.romanes.accountapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633641343400-rer9lp2vgkvsce0rhlbi7o23gidnkf42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVcxo29AOoVX3GKBH8rPpAy5tqgmhnaHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633641343400-rer9lp2vgkvsce0rhlbi7o23gidnkf42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
